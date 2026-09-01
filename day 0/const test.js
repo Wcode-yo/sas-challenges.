@@ -1,3 +1,7 @@
-const name = "Taha"; 
-const age = 22 ; 
-console .log(`My name is ${name} and I am ${age} years old.`);
+let age = 22;
+
+if (age >= 18) {
+    console.log("You are an adult.");
+} else {
+    console.log("You are not an adult.");
+}
