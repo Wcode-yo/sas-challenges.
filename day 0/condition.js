@@ -12,8 +12,7 @@ switch (age) {
         console.log("You are 22 years old.");
         break;
 
-<<<<<<< HEAD
 }
-=======
+
 }
->>>>>>> 8341caa5e3715b58383a8ceade467ae4d931849b
+
