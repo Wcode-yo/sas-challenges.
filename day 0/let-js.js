@@ -1,3 +1,4 @@
+//let 
 let name =  "Taha" ; 
 let age   =  22    ; 
 console.log("your name is: " + name); 
