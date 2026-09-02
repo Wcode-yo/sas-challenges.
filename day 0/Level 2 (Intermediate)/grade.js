@@ -7,4 +7,4 @@ if (grade >= 90 && grade <= 100) {
     console.log("C")
 } else if (grade >= 70) {
     console.log("F")
-} 
+}
